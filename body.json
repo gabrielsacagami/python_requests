@@ -1,0 +1,8 @@
+{
+    "param_1":"bar1",
+    "address":{
+        "line1":"street 1",
+        "line2":"748"
+    },
+    "param_2":"bar2"
+}
