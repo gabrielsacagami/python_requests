@@ -1,4 +1,48 @@
 {
-    "cep":"x",
-    "id_meio_captura":"y"
+    "grupoDeServico": "INSTALAÇÃO",
+    "tipoDeServico": "INSTALAÇÃO",
+    "observacaoAbertura": "Teste Omnichannel",
+    "vendedor": "Pessoa A",
+    "canalDeVenda": "Omnichannel Pagar.me",
+    "criadaPor": "email@email.com",
+    "terminal": {
+        "id": "X",
+        "modelo": "D210N",
+        "tipo": "GPRS-WIFI"
+    },
+    "cliente": {
+        "stoneCode": "0000000000",
+        "nomeFantasia": "Fantasia",
+        "tipoDeDocumento": "CNPJ",
+        "numeroDoDocumento": "10000001000100",
+        "tipo": "Pessoa Juridica"
+    },
+    "contato": {
+        "nome": "Pessoa A",
+        "telefone": "21999999999",
+        "celular": "21999999999",
+        "email": "email@email.com"
+    },
+    "endereco": {
+        "cidade": "Cidade A",
+        "bairro": "Bairro A",
+        "cep": "00000000",
+        "numero": "999",
+        "logradouro": "Rua A",
+        "tipoDoLogradouro": "Rua",
+        "estado": "RJ",
+        "complemento": "Bloco 1",
+        "referencia": "-",
+        "pais": "Brasil"
+    },
+    "horarioDeFuncionamento": {
+        "domingo": "Nao funciona",
+        "segunda": "10:00 - 18:00",
+        "terça": "10:00 - 18:00",
+        "quarta": "10:00 - 18:00",
+        "quinta": "10:00 - 18:00",
+        "sexta": "10:00 - 18:00",
+        "sábado": "Nao funciona",
+        "feriados": "Nao funciona"
+    }
 }

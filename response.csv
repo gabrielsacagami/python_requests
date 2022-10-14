@@ -1,3 +1,10 @@
-cep,id_meio_captura,status
-40080002,8249026,Response Status: 200
-05724003,8249027,Response Status: 200
+limit_date,service_order_number,logistic_operator,provider,response_http_status
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
