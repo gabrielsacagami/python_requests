@@ -4,3 +4,4 @@ data.csv
 body.json
 tokens.json
 environment.yml
+__pycache__

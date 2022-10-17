@@ -1,48 +1,48 @@
 {
     "grupoDeServico": "INSTALAÇÃO",
     "tipoDeServico": "INSTALAÇÃO",
-    "observacaoAbertura": "Teste Omnichannel",
-    "vendedor": "Pessoa A",
+    "observacaoAbertura": "Uma observação ...",
+    "vendedor": "Gabriel Sacagami",
     "canalDeVenda": "Omnichannel Pagar.me",
-    "criadaPor": "email@email.com",
+    "criadaPor": "gabriel.sacagami@stone.com.br",
     "terminal": {
         "id": "X",
-        "modelo": "D210N",
+        "modelo": "S920",
         "tipo": "GPRS-WIFI"
     },
     "cliente": {
-        "stoneCode": "0000000000",
-        "nomeFantasia": "Fantasia",
-        "tipoDeDocumento": "CNPJ",
-        "numeroDoDocumento": "10000001000100",
-        "tipo": "Pessoa Juridica"
-    },
+    "stoneCode": "183487620",
+    "nomeFantasia": "Pagarme | Casa & Video",
+    "tipoDeDocumento": "CNPJ",
+    "numeroDoDocumento": "18727053000174",
+    "tipo": "Pessoa Juridica"
+  },
     "contato": {
-        "nome": "Pessoa A",
-        "telefone": "21999999999",
-        "celular": "21999999999",
-        "email": "email@email.com"
+    "nome": "Isabele Moura",
+    "telefone": "21969184030",
+    "celular": "21969184030",
+    "email": "isabele.moura@casaevideo.com.br"
+  },
+  "endereco": {
+    "cidade": "Rio de Janeiro",
+    "bairro": "Centro",
+    "cep": "20011904",
+    "numero": "100",
+    "logradouro": "Rua da Assembleia",
+    "tipoDoLogradouro": "Rua",
+    "estado": "RJ",
+    "complemento": "8o Andar",
+    "referencia": "Escritório da Casa e Video",
+    "pais": "Brasil"
     },
-    "endereco": {
-        "cidade": "Cidade A",
-        "bairro": "Bairro A",
-        "cep": "00000000",
-        "numero": "999",
-        "logradouro": "Rua A",
-        "tipoDoLogradouro": "Rua",
-        "estado": "RJ",
-        "complemento": "Bloco 1",
-        "referencia": "-",
-        "pais": "Brasil"
-    },
-    "horarioDeFuncionamento": {
-        "domingo": "Nao funciona",
-        "segunda": "10:00 - 18:00",
-        "terça": "10:00 - 18:00",
-        "quarta": "10:00 - 18:00",
-        "quinta": "10:00 - 18:00",
-        "sexta": "10:00 - 18:00",
-        "sábado": "Nao funciona",
-        "feriados": "Nao funciona"
+  "horarioDeFuncionamento": {
+    "domingo": "Nao funciona",
+    "segunda": "10:00 - 18:00",
+    "terça": "10:00 - 18:00",
+    "quarta": "10:00 - 18:00",
+    "quinta": "10:00 - 18:00",
+    "sexta": "10:00 - 18:00",
+    "sábado": "Nao funciona",
+    "feriados": "Nao funciona"
     }
 }

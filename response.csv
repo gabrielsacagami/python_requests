@@ -1,1 +1,4 @@
-limit_date,service_order_number,logistic_operator,provider,response_http_status,Request
+limit_date,service_order_number,logistic_operator,provider,status,response_http_status,request_number,id_meio_captura
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,NOVA,200,Request 1,111111
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,NOVA,200,Request 2,222222
+2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,NOVA,200,Request 3,222223
