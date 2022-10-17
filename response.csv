@@ -1,10 +1,1 @@
-limit_date,service_order_number,logistic_operator,provider,response_http_status
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
-2020-09-24T13:42:29,190749,Logistics,Centro de distribuição,200
+limit_date,service_order_number,logistic_operator,provider,response_http_status,Request
